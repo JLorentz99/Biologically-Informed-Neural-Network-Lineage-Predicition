@@ -6,7 +6,7 @@ A multimodal deep learning pipeline for predicting developmental lineages in sin
 
 ## Overview
 
-Lentiviral barcoding delivers unique DNA sequences into cells in utero, allowing clonal relationships to be traced through sequencing. However, barcoding efficiency is incomplete — only a fraction of cells carry a barcode. BINN learns the transcriptional signatures of barcoded clonal lineages and transfers those predictions to unbarcoded cells, effectively extending lineage information across an entire dataset.
+Lentiviral barcoding delivers unique DNA sequences into cells in utero, allowing clonal relationships to be traced through sequencing. However, barcoding efficiency is incomplete — only a fraction of cells carry a barcode. BINN learns the transcriptional, pathway, transcription factors, and GO term signatures of Clone2vec-clustered barcoded clonal lineages and transfers those predictions to unbarcoded cells, effectively extending lineage information across an entire dataset.
 
 The pipeline has three components:
 
