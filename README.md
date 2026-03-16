@@ -223,7 +223,7 @@ model.eval()
 
 If you use this pipeline, please cite the clone2vec and decoupleR tools it builds on:
 
-- **clone2vec / sclitr**: Palla et al.
-- **DoRothEA**: Garcia-Alonso et al., *Genome Research* 2019
-- **PROGENy**: Schubert et al., *Nature Communications* 2018
-- **decoupleR**: Badia-i-Mompel et al., *Bioinformatics Advances* 2022
+- **clone2vec / sclitr**
+- **DoRothEA**
+- **PROGENy**
+- **decoupleR**
