@@ -1,6 +1,6 @@
 # BINN — Biologically Informed Neural Network for Single-Cell Lineage Prediction
 
-A multimodal deep learning pipeline for predicting developmental lineages in single-cell RNA-seq data and spatially resolving them in spatial transcriptomics.
+A multimodal deep learning pipeline for predicting developmental lineages in barcoded single-cell RNA-seq data and spatially resolving them in spatial transcriptomics.
 
 ---
 
